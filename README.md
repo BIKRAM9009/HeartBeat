@@ -1,2 +1,2 @@
 # HeartBeat
-Animation oh heartbeat
+Animation of heartbeat
